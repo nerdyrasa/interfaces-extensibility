@@ -1,0 +1,8 @@
+C:\Users\rasai_000\projects\vs\Extensibility\PersonRepository.Service\obj\Debug\PersonRepository.Service.csprojResolveAssemblyReference.cache
+C:\Users\rasai_000\projects\vs\Extensibility\PersonRepository.Service\bin\Debug\PersonRepository.Service.dll.config
+C:\Users\rasai_000\projects\vs\Extensibility\PersonRepository.Service\bin\Debug\PersonRepository.Service.dll
+C:\Users\rasai_000\projects\vs\Extensibility\PersonRepository.Service\bin\Debug\PersonRepository.Service.pdb
+C:\Users\rasai_000\projects\vs\Extensibility\PersonRepository.Service\bin\Debug\PersonRepository.Interface.dll
+C:\Users\rasai_000\projects\vs\Extensibility\PersonRepository.Service\bin\Debug\PersonRepository.Interface.pdb
+C:\Users\rasai_000\projects\vs\Extensibility\PersonRepository.Service\obj\Debug\PersonRepository.Service.dll
+C:\Users\rasai_000\projects\vs\Extensibility\PersonRepository.Service\obj\Debug\PersonRepository.Service.pdb
